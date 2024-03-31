@@ -1,0 +1,33 @@
+{
+  "name": "kylewheeler",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "kylewheeler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abookiosa/kylewheeler"
+  },
+  "website": "https://github.com/abookiosa/kylewheeler.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "abookiosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abookiosa/kylewheeler/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/abookiosa/kylewheeler#readme",
+  "dependencies": {
+    "garygillallen": "1.0.2"
+  }
+}
